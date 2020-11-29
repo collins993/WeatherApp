@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="text_temp">Text Temp</string>
+    <string name="description">Description</string>
+    <string name="humidity">Humidity</string>
+    <string name="sea_level">Sea Level</string>
+    <string name="ground_level">Ground Level</string>
+</resources>
